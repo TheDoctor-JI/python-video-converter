@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: VideoConverter
+Version: 1.1.0
+Summary: Video Converter library
+Home-page: https://github.com/senko/python-video-converter/
+Author: Senko Rasic
+Author-email: senko.rasic@dobarkod.hr
+License-File: AUTHORS.txt
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
